@@ -16,11 +16,6 @@ Module modMain
         Dim tabBIN(0) As Byte, tabTampon(0) As Byte
         Dim reponse As String, nbRejets As Integer, minPieces As Integer
         
-        If My.Computer.FileSystem.GetFileInfo(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) & "\Documents\Visual Studio 2013\Projects\plainToBIN\plainToBIN\bin\Debug\plainToBIN.exe").LastWriteTime > My.Computer.FileSystem.GetFileInfo(My.Application.Info.AssemblyName & ".exe").LastWriteTime Then
-            MsgBox("Il existe une version plus récente de ce programme !", MsgBoxStyle.Information)
-            End
-        End If
-
         fichierPLAIN = Replace(Command(), """", "")
         If fichierPLAIN = "" Then
             End
@@ -39,10 +34,7 @@ Module modMain
         End If
 
         'chargement parametres
-        moteurBIN = "E:\JEUX\ARENA CHESS 3.5.1\Engines\BrainLearn\20T BrainLearn 13.1 x64 BMI2.exe"
-        If My.Computer.Name = "PLEXI" Then
-            moteurBIN = "D:\JEUX\ARENA CHESS 3.5.1\Engines\BrainLearn\20T BrainLearn 13.1 x64 PCNT.exe"
-        End If
+        moteurBIN = "BrainLearn.exe"
         fichierINI = My.Computer.Name & ".ini"
         If My.Computer.FileSystem.FileExists(fichierINI) Then
             chaine = My.Computer.FileSystem.ReadAllText(fichierINI)
