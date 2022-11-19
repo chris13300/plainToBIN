@@ -14,4 +14,4 @@ command : plainToBIN.exe your_plain_text_file.txt<p>
 ![plainToBIN](https://github.com/chris13300/plainToBIN/blob/main/plainToBIN/bin/Debug/plainToBIN.jpg)<p>
 
 3°) Rename the BIN file to experience.bin and move it to your BrainLearn folder :
-![brainlearn_experience_viewer](https://github.com/chris13300/plainToBIN/blob/main/plainToBIN/bin/Debug/brainlearn_experience_viewer.jpg)<p>
+![brainlearn_experience_viewer](https://github.com/chris13300/plainToBIN/blob/main/plainToBIN/bin/Debug/brainlearn_experience_viewer.jpg)<br>
