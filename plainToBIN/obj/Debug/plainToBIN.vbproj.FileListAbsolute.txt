@@ -1,0 +1,9 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToBIN\plainToBIN\bin\Debug\plainToBIN.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToBIN\plainToBIN\bin\Debug\plainToBIN.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToBIN\plainToBIN\bin\Debug\plainToBIN.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToBIN\plainToBIN\bin\Debug\plainToBIN.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToBIN\plainToBIN\obj\Debug\plainToBIN.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToBIN\plainToBIN\obj\Debug\plainToBIN.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToBIN\plainToBIN\obj\Debug\plainToBIN.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToBIN\plainToBIN\obj\Debug\plainToBIN.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\plainToBIN\plainToBIN\obj\Debug\plainToBIN.pdb
